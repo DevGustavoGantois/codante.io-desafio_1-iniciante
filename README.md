@@ -15,6 +15,8 @@
 
 <p>Projeto focado em funcionalidades simples, desafio iniciante feito na plataforma codante.io</p>
 
+<a href="https://codante.io/">Link da plataforma</a>
+
 <p>Tecnologias utilizadas</p>
 
 <ul>
@@ -42,6 +44,8 @@
 <h1>EN</h1>
 
 <h1>Country Listing Project</h1>
+
+<a href="https://codante.io/">Link of platform</a>
 
 <p>Project focused on simple features, beginner challenge done on the codante.io platform</p>
 
