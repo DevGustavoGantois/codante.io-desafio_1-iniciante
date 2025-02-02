@@ -53,25 +53,25 @@ export default function CountryPage() {
             <div className="flex flex-col items-center justify-center">
             <h1 className="text-center mt-4 text-3xl font-semibold">{selectedCountry.name.common}</h1>
             <Card className="mt-10 w-full p-4 lg:p-10 lg:w-[80%]">
-                <span className="flex justify-between items-center">
+                <span className="flex flex-col justify-center lg:flex-row lg:justify-between items-center">
                 <CardContent className="flex flex-col gap-2">
-                    <CardDescription className="text-2xl flex items-center gap-2">
+                    <CardDescription className="text-xl lg:text-2xl flex items-center gap-2">
                         <Map className="text-blue-500" />
                         Capital: {selectedCountry.name.common}
                     </CardDescription>
-                    <CardDescription className="text-2xl flex items-center gap-2">
+                    <CardDescription className="text-xl lg:text-2xl flex items-center gap-2">
                         <MapPin  className="text-blue-500"/>
                         Continente: {selectedCountry.region}
                     </CardDescription>
-                    <CardDescription className="text-2xl flex items-center gap-2">
+                    <CardDescription className="text-xl lg:text-2xl flex items-center gap-2">
                         <Users className="text-blue-500" />
                         População: {selectedCountry.population.toLocaleString()}
                         </CardDescription>
-                    <CardDescription className="text-2xl flex items-center gap-2">
+                    <CardDescription className="text-xl lg:text-2xl flex items-center gap-2">
                         <FlagIcon className="text-blue-500" />
                         Idiomas: {Object.values(selectedCountry.languages).join(", ")}
                         </CardDescription>
-                        <CardDescription className="text-2xl flex items-center gap-2">
+                        <CardDescription className="text-xl lg:text-2xl flex items-center gap-2">
                           <FlagOffIcon className="text-blue-500" />
                           Subregião: {selectedCountry.subregion}
                         </CardDescription>
