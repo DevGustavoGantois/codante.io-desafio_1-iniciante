@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<a href="">Clique aqui para ver a aplicação!</a>
 
-## Getting Started
+<h1>Projeto Listagem de Países</h1>
 
-First, run the development server:
+<p>Projeto focado em funcionalidades simples, desafio iniciante feito na plataforma codante.io</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p>Tecnologias utilizadas</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<ul>
+  <li>NextJS</li>
+  <li>TaiwlindCSS</li>
+  <li>ShadcnUI</li>
+  <li>Typescript</li>
+</ul>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h3>Conceitos treinados dentro do projeto.</h3>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<ul>
+  <li>Consumo de API</li>
+  <li>Utilização do next/navigation para redirecionamento do usuário, para dentro da plataforma<li>
+  <li>Estruturas condicionais</li>
+  <li>Operadores ternários</li>
+  <li>useParams para criar rotas dinâmicas de acordo com o nome dos países dados pela API</li>
+  <li>Filtragem de dados da API</li>
+  <li>Filtragem da lista de países</li>
+  <li>Utilização do ShadcnUI para criar componentes acessíveis e estilizados</li>
+  <li>Zod para validação dos formulários</li>
+  <li>Divisão dos componentes na aplicação, passando props para os mesmos</li>
+</ul>
 
-## Learn More
+<h1>EN</h1>
 
-To learn more about Next.js, take a look at the following resources:
+<h1>Country Listing Project</h1>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p>Project focused on simple features, beginner challenge done on the codante.io platform</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<p>Technologies used</p>
 
-## Deploy on Vercel
+<ul>
+<li>NextJS</li>
+<li>TaiwlindCSS</li>
+<li>ShadcnUI</li>
+<li>Typescript</li>
+</ul>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<h3>Concepts trained within the project.</h3>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<ul>
+<li>API consumption</li>
+<li>Use of next/navigation to redirect the user to the platform<li>
+<li>Conditional structures</li>
+<li>Ternary operators</li>
+<li>useParams to create dynamic routes according to the name of the countries given by the API</li>
+<li>Filtering API data</li> <li>Filtering the country list</li>
+<li>Using ShadcnUI to create accessible and stylized components</li>
+<li>Zod for form validation</li>
+<li>Dividing the components in the application, passing props to them</li>
+</ul>
