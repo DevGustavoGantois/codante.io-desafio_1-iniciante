@@ -2,6 +2,9 @@
 
 <h1>Projeto Listagem de Países</h1>
 
+![image](https://github.com/user-attachments/assets/6bbad6e6-5aba-4702-b7f2-7be4f8a9e2f2)
+
+
 <p>Projeto focado em funcionalidades simples, desafio iniciante feito na plataforma codante.io</p>
 
 <p>Tecnologias utilizadas</p>
