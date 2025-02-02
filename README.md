@@ -4,6 +4,10 @@
 
 ![image](https://github.com/user-attachments/assets/6bbad6e6-5aba-4702-b7f2-7be4f8a9e2f2)
 
+![image](https://github.com/user-attachments/assets/bef2a591-d320-4ffe-abd6-f4fba3e0d62a)
+
+![image](https://github.com/user-attachments/assets/354cd2b5-a7a3-4341-816c-1fbd2f4f1d24)
+
 
 <p>Projeto focado em funcionalidades simples, desafio iniciante feito na plataforma codante.io</p>
 
